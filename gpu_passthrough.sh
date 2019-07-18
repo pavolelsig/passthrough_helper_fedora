@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#dnf update
-
 echo "Installing required packages"
 
 dnf install qemu qemu-img nano -y
