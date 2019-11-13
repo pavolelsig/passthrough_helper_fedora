@@ -6,7 +6,7 @@ dnf install qemu qemu-img nano -y
 
 dnf groupinstall "Virtualization" -y
 
-echo "Egit grub: intel_iommu=on or amd_iommu=on rd.driver.pre=vfio-pci kvm.ignore_msrs=1"
+echo "Edit grub: intel_iommu=on or amd_iommu=on rd.driver.pre=vfio-pci kvm.ignore_msrs=1"
 
 nano /etc/sysconfig/grub
 
