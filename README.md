@@ -6,4 +6,4 @@ This is a simple script that makes your system ready to run a KVM/QEMU virtual m
 
 2 GPUs are needed. One of the GPUs can be an iGPU. 
 
-For a tutorial, visit: https://www.youtube.com/watch?v=Cssen5-QCk0
+For a tutorial, visit: https://youtu.be/_9W18QN26-4
